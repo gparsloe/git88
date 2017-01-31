@@ -1,1 +1,2 @@
-88 is a great number
+88 is a great number.
+99 is, too.
